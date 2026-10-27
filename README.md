@@ -9,7 +9,7 @@
     </head>
     <body>
         <main class="app">
-            <h1>Minhas tarefas</h1>
+           
 
             <div class="entrada">
                 <input id="tarefa" type="text" placeholder="Digite uma tarefa" autocapitalize="off">
